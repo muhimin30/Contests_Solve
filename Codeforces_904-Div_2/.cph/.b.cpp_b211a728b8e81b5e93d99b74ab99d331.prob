@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"c:\\Users\\muhim\\OneDrive\\Desktop\\Code\\rated_contest\\cf-904-2\\b.cpp","tests":[{"id":1697957706430,"input":"1\n12\n001011000110","output":"0 2 4 6 10 15 20 -1 -1 -1 -1 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\muhim\\OneDrive\\Desktop\\Code\\rated_contest\\cf-904-2\\b.cpp","group":"local","local":true}
