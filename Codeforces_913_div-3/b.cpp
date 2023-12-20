@@ -31,7 +31,7 @@ void solve()
 			else if(upper.size() > 0 && s[i] == 'B'){
 				upper.pop_back();
 			}
-		}
+		}	
 		
 		vector<pair<int, char>> ans;
 
