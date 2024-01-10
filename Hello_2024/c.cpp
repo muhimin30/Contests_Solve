@@ -69,11 +69,6 @@ void solve()
 
 	int n1 = num1.size(), n2 = num2.size();
 
-	// for(auto a: num1) cout << a << ' ';
-	// cout << endl;
-	// for(auto a: num2) cout << a << ' ';
-	// cout << endl;
-
 	for(int i = 0; i < n1 - 1; i++){
 		if(num1[i] < num1[i + 1]){
 			cnt++;
@@ -84,20 +79,7 @@ void solve()
 			cnt++;
 		}
 	}
-
-	// if(n == 3){
-	// 	if(num[0] < num[1] && num[1] < num[2]){
-	// 		cout << 1 << endl;
-	// 	}
-	// 	else{
-	// 		cout << 0 << endl;
-	// 	}
-	// 	return;
-	// }
 	cout << cnt << endl;
-	//cout << endl;
-
-
 
 }
 
